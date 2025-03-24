@@ -18,7 +18,7 @@ main {
   border-radius: 15px;
   background-color: var(--mainColor);
   width: 25vw;
-  height: 65vh;
+  height: 72vh;
   min-width: 25vw;
   position: absolute;
   bottom: 50%;
@@ -50,7 +50,7 @@ h4 {
   font-family: "Varela Round", sans-serif;
   font-weight: 600;
   font-style: normal;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 a {
@@ -60,7 +60,7 @@ a {
 li {
   width: 270px;
   height: 37px;
-  margin-bottom: 12px;
+  margin-bottom: 14px;
   padding-top: 8px;
   list-style-type: none;
   background-color: var(--buttonColor);
