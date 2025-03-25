@@ -18,7 +18,7 @@ main {
   border-radius: 15px;
   background-color: var(--mainColor);
   width: 25vw;
-  height: 72vh;
+  height: 75vh; 
   min-width: 25vw;
   position: absolute;
   bottom: 50%;
