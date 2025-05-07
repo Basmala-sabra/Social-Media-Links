@@ -4,13 +4,13 @@ Asalam Aliukum everyone 👋🏻. I am Basmala Sabra. This is my simple project,
 
 ## 📌 About the project:
 
-This project is a personal profile webpage that displays social media links using HTML and CSS. It includes a profile card with a name, job title, location, and buttons linking to various platforms. The design is simple, and easy to customize by updating text, images, and links.
+This project is a profile webpage that displays social media links using HTML and CSS. It includes a profile card with a name, job title, location, and buttons linking to various platforms. The design is simple, and easy to customize by updating text, images, and links.
 
 ## 🛠️Technologies Used
 
-HTML: Structure of the webpage
+HTML5: Structure of the webpage
 
-CSS: Styling the profile card and buttons
+CSS3: Styling the profile card and buttons
 
 ## Future Enhancements
 
