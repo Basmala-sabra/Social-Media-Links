@@ -1,10 +1,10 @@
 ﻿# Social Media Links
 
-Asalam Aliukum everyone 👋🏻. I am Basmala Sabra. This is my personal profile page that displaying my social media links.
+Asalam Aliukum everyone 👋🏻. I am Basmala Sabra. This is my simple project, it is a profile page displaying social media links.
 
 ## 📌 About the project:
 
-This project is a profile webpage that displays my social media links using HTML and CSS. It includes a profile card with a name, job title, location, and buttons linking to various platforms. The design is simple, and easy to customize by updating text, images, and links.
+This project is a profile webpage that displays social media links using HTML and CSS. It includes a profile card with a name, job title, location, and buttons linking to various platforms. The design is simple, and easy to customize by updating text, images, and links.
 
 ## 🛠️Technologies Used
 
