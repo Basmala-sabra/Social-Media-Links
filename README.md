@@ -1,6 +1,6 @@
 ﻿# Social Media Links
 
-Asalam Aliukum everyone 👋🏻. I am Basmala Sabra. This is a a personal profile page that displaying social media links.
+Asalam Aliukum everyone 👋🏻. I am Basmala Sabra. This is a personal profile page that displaying social media links.
 
 ## 📌 About the project:
 
